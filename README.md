@@ -1,5 +1,5 @@
 # GOOSE
-CS305_module04_repository
+CS305_module05_repository
 
 
 Um this is a confusing assignment :C
